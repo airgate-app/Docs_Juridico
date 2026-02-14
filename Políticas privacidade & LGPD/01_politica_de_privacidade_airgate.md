@@ -8,7 +8,7 @@
 
 ## 1. INTRODUÇÃO
 
-A **AIRGATE TECNOLOGIA LTDA.** ("Airgate", "nós" ou "nossos"), inscrita no CNPJ sob o nº [INSERIR CNPJ], com sede em [INSERIR ENDEREÇO], é a controladora dos dados pessoais tratados por meio de nossa plataforma de controle de acesso para imóveis de aluguel por temporada.
+A **RIDE ROBOTICS LTDA.** ("Airgate", "nós" ou "nossos"), inscrita no CNPJ sob o nº 39.606.333/0001-02, com sede em Rua Jeronimo Coelho, 78 - Centro, Joinville - SC, 89.201-050 é a controladora dos dados pessoais tratados por meio de nossa plataforma de controle de acesso para imóveis de aluguel por temporada.
 
 Esta Política de Privacidade tem por objetivo informar você ("Usuário", "Titular" ou "você") sobre como coletamos, usamos, armazenamos, compartilhamos e protegemos seus dados pessoais, em conformidade com a **Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018 — LGPD)** e demais normas aplicáveis.
 
@@ -226,8 +226,7 @@ A LGPD garante a você os seguintes direitos, que podem ser exercidos mediante s
 Para exercer qualquer um dos direitos acima, entre em contato com nosso Encarregado de Proteção de Dados:
 
 - **E-mail:** privacidade@airgate.app
-- **Formulário:** [link para formulário no site]
-- **Correio:** [INSERIR ENDEREÇO COMPLETO] — A/C Encarregado de Proteção de Dados
+- **Correio:** Rua Jeronimo Coelho, 78 - Centro, Joinville - SC, 89.201-050 — A/C Encarregado de Proteção de Dados
 
 **Prazo de resposta:** Até 15 (quinze) dias, conforme Art. 19, II da LGPD.
 
@@ -291,10 +290,10 @@ Nos termos do Art. 41 da LGPD, designamos o seguinte Encarregado de Proteção d
 
 | Informação | Detalhe |
 |------------|---------|
-| **Nome** | [INSERIR NOME DO DPO] |
+| **Nome** | Caio Arantes Filho |
 | **E-mail** | privacidade@airgate.app |
-| **Telefone** | [INSERIR TELEFONE] |
-| **Endereço** | [INSERIR ENDEREÇO] |
+| **Telefone** | 47 92001-7440 |
+| **Endereço** | Rua Jeronimo Coelho, 78 - Centro, Joinville - SC, 89.201-050 |
 
 ### 11.1 Atribuições do Encarregado
 
@@ -353,17 +352,17 @@ Para dúvidas, sugestões ou reclamações sobre esta Política de Privacidade o
 |-------|------------|
 | **E-mail geral** | contato@airgate.app |
 | **E-mail privacidade** | privacidade@airgate.app |
-| **Telefone** | [INSERIR TELEFONE] |
-| **Endereço** | [INSERIR ENDEREÇO COMPLETO] |
+| **Telefone** | 47 92001 7440 |
+| **Endereço** | Rua Jeronimo Coelho, 78 - Centro, Joinville - SC, 89.201-050 |
 | **Site** | https://airgate.app |
 
 ---
 
 **AIRGATE TECNOLOGIA LTDA.**
 
-CNPJ: [INSERIR]
+CNPJ: 39.606.333/0001-02
 
-[INSERIR CIDADE/UF], [DATA]
+Joinville - SC, 14/02/2026
 
 ---
 
