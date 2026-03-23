@@ -12,7 +12,7 @@ www.airgate.app
 
 Pelo presente instrumento particular, as partes abaixo qualificadas:
 
-**CONTRATANTE:** RIDE ROBOTICS LTDA, pessoa jurídica de direito privado, inscrita no CNPJ sob o nº [INSERIR CNPJ], com sede na cidade de Joinville, Estado de Santa Catarina, na [INSERIR ENDEREÇO COMPLETO], neste ato representada por seu representante legal, doravante denominada simplesmente "AIRGATE".
+**CONTRATANTE:** RIDE ROBOTICS LTDA, pessoa jurídica de direito privado, inscrita no CNPJ sob o nº 39.606.333/0001-02, com sede na cidade de Joinville, Estado de Santa Catarina, na Rua Jerônimo Coelho 78, neste ato representada por seu representante legal, doravante denominada simplesmente "AIRGATE".
 
 **CONTRATADA:** [NOME/RAZÃO SOCIAL DO PARCEIRO], pessoa jurídica de direito privado, inscrita no CNPJ sob o nº [INSERIR CNPJ], com sede na cidade de [CIDADE], Estado de [ESTADO], na [INSERIR ENDEREÇO COMPLETO], neste ato representada por seu representante legal, doravante denominada simplesmente "PARCEIRO".
 
@@ -32,9 +32,9 @@ b) Modelo Indicação: o PARCEIRO identifica e encaminha leads qualificados à A
 
 1.3. Os produtos objeto deste Contrato compreendem, mas não se limitam a:
 
-- AirGate Smart Box (sistema integrado de controle de acesso com reconhecimento facial)
 - AirGate Gateway FlexConnect (gateway para integração com sistemas existentes)
-- Gateway Portão Garagem (módulo de integração com portões automáticos)
+- AirGate Garagem Gateway (módulo de integração com portões automáticos)
+- AirGate Lock (Tranca com senha para portas de internas com ou sem gateway) 
 - Software AirGate (plataforma em nuvem, WebApp e integrações com Airbnb, Booking.com e plataformas de gestão)
 
 ---
@@ -340,25 +340,14 @@ E, por estarem assim justas e contratadas, as Partes assinam o presente instrume
 
 &nbsp;
 
-**TESTEMUNHAS:**
-
-| | |
-|---|---|
-| _______________________________ | _______________________________ |
-| Nome: _________________________ | Nome: _________________________ |
-| CPF: __________________________ | CPF: __________________________ |
-
----
-
 ## ANEXO I — TABELA DE PREÇOS DE HARDWARE
 
-Tabela vigente a partir de [DATA]. Sujeita a atualização conforme Cláusula 2.1(h).
+Tabela vigente a partir de 23/03/2026. Sujeita a atualização conforme Cláusula 2.1(h).
 
 | Produto | Tabela | Bronze (15%) | Prata (20%) | Ouro (25%) |
 |---|---|---|---|---|
-| AirGate Smart Box | R$ 2.695 | R$ 2.291 | R$ 2.156 | R$ 2.021 |
-| AirGate Gateway FlexConnect | R$ 821 | R$ 698 | R$ 657 | R$ 616 |
-| Gateway Portão Garagem | R$ 840 | R$ 714 | R$ 672 | R$ 630 |
+| AirGate Gateway FlexConnect | R$ 795 | R$ 677 | R$ 637 | R$ 597 |
+| Gateway Portão Garagem | R$ 497 | R$ 423 | R$ 398 | R$ 373 |
 
 Inclui: equipamento conforme especificação técnica, fontes de alimentação e manual de instalação. Custo de instalação não incluso. Frete por conta do PARCEIRO ou conforme negociação específica.
 
